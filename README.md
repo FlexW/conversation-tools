@@ -1,6 +1,6 @@
 # Conversation Tools
 
-Tools for converting numbers.
+Command line tools for converting numbers.
 
 ## Currently Available Tools
 ```
