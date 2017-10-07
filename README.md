@@ -4,7 +4,7 @@ Tools for converting numbers.
 
 ## Currently Available Tools
 ```
-dtoh - decimal to hexadecimal converter.
+dtoh - decimal to hexadecimal converter
 htod - hexadecimal to decimal converter
 ```
 
